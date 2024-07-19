@@ -31,7 +31,7 @@ console.log("New Value:",myFavouriteNumber);
 
 // Task-6
 const myFavouriteNumber1 = 21;
-console.log("Initial Value:", myFavouriteNumber);
+console.log("Initial Value:", myFavouriteNumber1);
 
 myFavouriteNumber1 = 12;
-console.log("New Value:",myFavouriteNumber);
+console.log("New Value:",myFavouriteNumber1);
