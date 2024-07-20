@@ -1,23 +1,23 @@
 // Task 1
 let a=6;
 let b=2;
-console.log(a+b); 
+console.log(a+b); // output : 8
 
 // Task 2
 
-console.log(a-b); 
+console.log(a-b); // output:4
 
 //Task 3
 
-console.log(a*b); 
+console.log(a*b); // output : 12
 
 //Task 4
 
-console.log(a/b); 
+console.log(a/b); // output : 3
 
 //Task 5
 
-console.log(a%b); 
+console.log(a%b); // output : 0
 
 //Task 6
 let x=9;
@@ -55,7 +55,7 @@ console.log(i); // 7
 let age=20;
 if(age==18 || age>18)
 {
-    console.log("eligible to vote") // this will be printed
+    console.log("eligible to vote") // output : eligible to vote
 }
 else
 {
@@ -65,11 +65,11 @@ else
 //Task 13
 if(!false)
 {
-    console.log("stmt executed");
+    console.log("stmt executed"); // output : stmt executed
 }
 
 //Task 14
 let num=-7;
-console.log(num>=0?"positive":"negative");
+console.log(num>=0?"positive":"negative"); // output : negative
 
 
