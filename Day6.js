@@ -1,4 +1,3 @@
-// Tasks/Activities:
 // Activity 1: Array Creation and Access
 //  Task 1:
 const arr = [3,4,56,34,2];
